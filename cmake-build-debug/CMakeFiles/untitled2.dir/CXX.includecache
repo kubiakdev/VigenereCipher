@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/patryk/CLionProjects/untitled2/Cipher.cpp
+Cipher.h
+/Users/patryk/CLionProjects/untitled2/Cipher.h
+iostream
+-
+
+/Users/patryk/CLionProjects/untitled2/Cipher.h
+iostream
+-
+fstream
+-
+
+/Users/patryk/CLionProjects/untitled2/main.cpp
+iostream
+-
+Cipher.h
+/Users/patryk/CLionProjects/untitled2/Cipher.h
+string
+-
+
