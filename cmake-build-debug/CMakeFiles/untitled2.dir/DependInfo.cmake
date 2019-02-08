@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/patryk/CLionProjects/untitled2/Cipher.cpp" "/Users/patryk/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/Cipher.cpp.o"
-  "/Users/patryk/CLionProjects/untitled2/main.cpp" "/Users/patryk/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o"
+  "/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/Cipher.cpp" "/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/cmake-build-debug/CMakeFiles/untitled2.dir/Cipher.cpp.o"
+  "/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/main.cpp" "/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

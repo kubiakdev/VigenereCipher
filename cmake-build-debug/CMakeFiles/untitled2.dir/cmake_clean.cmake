@@ -2,7 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled2.dir/main.cpp.o"
   "CMakeFiles/untitled2.dir/Cipher.cpp.o"
   "untitled2.pdb"
-  "untitled2"
+  "untitled2.exe"
+  "libuntitled2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -6,23 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/patryk/CLionProjects/untitled2/Cipher.cpp
+/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/Cipher.cpp
 Cipher.h
-/Users/patryk/CLionProjects/untitled2/Cipher.h
+/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/Cipher.h
 iostream
 -
 
-/Users/patryk/CLionProjects/untitled2/Cipher.h
+/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/Cipher.h
 iostream
 -
 fstream
 -
+string.h
+-
 
-/Users/patryk/CLionProjects/untitled2/main.cpp
+/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/main.cpp
 iostream
 -
 Cipher.h
-/Users/patryk/CLionProjects/untitled2/Cipher.h
+/cygdrive/c/Users/domin/CLionProjects/VigenereCipher/Cipher.h
 string
+-
+sstream
 -
 
